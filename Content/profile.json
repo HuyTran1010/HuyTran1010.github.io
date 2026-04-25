@@ -31,7 +31,7 @@
     "Desc": "Designed core game mechanics and properties for two comprehensive group projects. Developed the games and constructed the user interfaces utilizing Python.",
     "GitHubRepo": "Private Project exclusive only to University of Science",
     "MainImage": "rush1.png",
-    "DetailImages": ["rush2.png",,"rush3.png","rush4.png"]
+    "DetailImages": ["rush2.png","rush3.png","rush4.png"]
   },
   "Project2": {
     "Title": "Hunting Snake",
@@ -46,5 +46,5 @@
     "GitHubRepo": "Private Project exclusive only to University of Science",
     "MainImage": "AIG1.png",
     "DetailImages": ["AIG2.png","AIG3.png","AIG4.png","AIG6.png","AIG7.png","AIG8.png","AIG9.png","AIG10.png"]
-  },
+  }
 }
