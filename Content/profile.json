@@ -27,31 +27,17 @@
   "Resume": "VanHuyTran_Resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "Title": "Rush Hour Solver",
+    "Desc": "Designed core game mechanics and properties for two comprehensive group projects. Developed the games and constructed the user interfaces utilizing Python.",
+    "GitHubRepo": "Private Project exclusive only to University of Science",
+    "MainImage": "rush1.PNG",
+    "DetailImages": ["rush2.PNG",,"rush3.PNG","rush4.PNG"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "Title": "Hunting Snake",
+    "Desc": "Designed core game mechanics and properties for two comprehensive group projects. Developed the games and constructed the user interfaces utilizing C++.",
+    "GitHubRepo": "Private Project exclusive only to University of Science",
+    "MainImage": "snake1.PNG",
+    "DetailImages": ["snake2.PNG","snake3.PNG","snake4.PNG","snake5.PNG","snake6.PNG","snake7.PNG"]
   },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
-  }
 }
