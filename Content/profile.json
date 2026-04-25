@@ -29,21 +29,21 @@
 "Project1": {
     "Title": "Rush Hour Solver",
     "Desc": "Designed core game mechanics and properties for a game that finds solution based on various sorting algorithms. Developed the games and constructed the user interfaces utilizing Python.",
-    "Private Project exclusive only to University of Science",
+    "GitHubRepo": "Private Project exclusive only to University of Science",
     "MainImage": "rush1.png",
     "DetailImages": ["rush1.png","rush2.png","rush4.png"]
   },
   "Project2": {
     "Title": "Hunting Snake",
     "Desc": "Designed core game mechanics and properties for a traditional hunting snake game. Developed the games and constructed the user interfaces utilizing C++.",
-    "Private Project exclusive only to University of Science",
+    "GitHubRepo": "Private Project exclusive only to University of Science",
     "MainImage": "snake1.png",
     "DetailImages": ["snake1.png","snake2.png","snake3.png","snake4.png","snake5.png","snake6.png","snake7.png"]
   },
   "Project3": {
     "Title": "All In Games Community",
     "Desc": "Developed a mobile application and e-commerce website for computer hardware and licensed video games. Built the platforms utilizing QT, JavaScript, and HTML/CSS, while implementing effective algorithms to support storefront logic and functionality.",
-    "Private Project exclusive only to University of Science",
+    "GitHubRepo": "Private Project exclusive only to University of Science",
     "MainImage": "AIG1.png",
     "DetailImages": ["AIG1.png","AIG2.png","AIG3.png","AIG4.png","AIG6.png","AIG7.png","AIG8.png","AIG9.png","AIG10.png"]
   }
