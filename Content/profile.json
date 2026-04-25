@@ -14,16 +14,16 @@
   "GitHub": "https://github.com/HuyTran1010"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I’ve always been fascinated by how complex systems are built from the ground up, and I really enjoy the intersection of logic and creativity. Whether I'm designing a new web app, writing Python algorithms, or diving deep into game engines to tweak core mechanics, I like building things that just work well.<br><br>In my past roles, I've done a bit of everything—from assisting users at an IT Help Desk to developing fully functional web platforms and programming game logic.<br><br>When I'm away from the keyboard, you can usually find me analyzing the cinematography of older movies or lifting weights. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2028",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "EducationText": "I am currently completing my degree at Seattle Pacific University, where I was awarded the Transfer Merit Scholarship for International Students. My relevant coursework encompasses Data Structures and Algorithms, Computer Networks, and Object-Oriented Programming. Previously, I participated in a study abroad program at the University of Science, Viet Nam National University.",
+  "Employment": "University of Science, Viet Nam National University",
+  "Role": "Web/Game Developer",
+  "EmploymentText": "In my role as a Web Developer, I built an e-commerce website and mobile application utilizing QT, JavaScript, and HTML/CSS. Prior to this, I served as a Game Developer, designing core mechanics for two distinct group projects using C++ and Python. I also have experience supporting campus operations and addressing customer inquiries through a Help Desk role.",
+  "Skills": ["C++", " C", " SQL", " Python"," R"],
+  "SkillsText": "I am proficient in programming languages such as C++, Python, and SQL. For statistical analysis, I rely exclusively on R programming to ensure higher accuracy, rather than utilizing standard data tables. Additionally, I am adept at working within environments like Visual Studio, GitHub, and MySQL, with a strong emphasis on clear communication and detail-oriented problem-solving.",
   "Resume": "VanHuyTran_Resume.pdf"  
 },
 "Project1": {
