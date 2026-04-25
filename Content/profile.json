@@ -30,21 +30,21 @@
     "Title": "Rush Hour Solver",
     "Desc": "Designed core game mechanics and properties for two comprehensive group projects. Developed the games and constructed the user interfaces utilizing Python.",
     "GitHubRepo": "Private Project exclusive only to University of Science",
-    "MainImage": "rush1.PNG",
-    "DetailImages": ["rush2.PNG",,"rush3.PNG","rush4.PNG"]
+    "MainImage": "rush1.png",
+    "DetailImages": ["rush2.png",,"rush3.png","rush4.png"]
   },
   "Project2": {
     "Title": "Hunting Snake",
     "Desc": "Designed core game mechanics and properties for two comprehensive group projects. Developed the games and constructed the user interfaces utilizing C++.",
     "GitHubRepo": "Private Project exclusive only to University of Science",
-    "MainImage": "snake1.PNG",
-    "DetailImages": ["snake2.PNG","snake3.PNG","snake4.PNG","snake5.PNG","snake6.PNG","snake7.PNG"]
+    "MainImage": "snake1.png",
+    "DetailImages": ["snake2.png","snake3.png","snake4.png","snake5.png","snake6.png","snake7.png"]
   },
   "Project3": {
     "Title": "All In Games Community",
     "Desc": "Developed a mobile application and e-commerce website for computer hardware and licensed video games. Built the platforms utilizing QT, JavaScript, and HTML/CSS, while implementing effective algorithms to support storefront logic and functionality.",
     "GitHubRepo": "Private Project exclusive only to University of Science",
-    "MainImage": "AIG1.PNG",
-    "DetailImages": ["AIG2.PNG","AIG3.PNG","AIG4.PNG","AIG5.PNG","AIG6.PNG","AIG7.PNG","AIG8.PNG","AIG9.PNG","AIG10.PNG"]
+    "MainImage": "AIG1.png",
+    "DetailImages": ["AIG2.png","AIG3.png","AIG4.png","AIG5.png","AIG6.png","AIG7.png","AIG8.png","AIG9.png","AIG10.png"]
   },
 }
