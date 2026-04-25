@@ -40,4 +40,11 @@
     "MainImage": "snake1.PNG",
     "DetailImages": ["snake2.PNG","snake3.PNG","snake4.PNG","snake5.PNG","snake6.PNG","snake7.PNG"]
   },
+  "Project3": {
+    "Title": "All In Games Community",
+    "Desc": "Developed a mobile application and e-commerce website for computer hardware and licensed video games. Built the platforms utilizing QT, JavaScript, and HTML/CSS, while implementing effective algorithms to support storefront logic and functionality.",
+    "GitHubRepo": "Private Project exclusive only to University of Science",
+    "MainImage": "AIG1.PNG",
+    "DetailImages": ["AIG2.PNG","AIG3.PNG","AIG4.PNG","AIG5.PNG","AIG6.PNG","AIG7.PNG","AIG8.PNG","AIG9.PNG","AIG10.PNG"]
+  },
 }
